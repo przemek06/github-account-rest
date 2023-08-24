@@ -4,7 +4,7 @@
 It's enough to have Maven installed on the system. Just run these two command in the project's root directory:
 
 ```
-mvn clean package -Dmaven.test.skip
+mvn clean package
 java -jar target/github-account-rest-0.0.1-SNAPSHOT.jar
 ```
 
